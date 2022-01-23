@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Gellian28
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning phyton
+- 💚 I'm a human, women
 
 
 
